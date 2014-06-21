@@ -1,7 +1,7 @@
 ---
 
 layout: post
-categories: [Tools]
+categories: [Blog]
 tags: [jekyll, github, git, markdown]
 
 ---
