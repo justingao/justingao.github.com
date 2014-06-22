@@ -7,10 +7,9 @@ If you want to fork this blog, please following these steps:
 1. Make a new repository on [GitHub][github.com] named `USERNAME.github.com`, where **USERNAME** is your account on [GitHub][github.com].
 
 2. Type the following commands to initialize the blog:
-
-    git clone git@github.com:justingao/BlogTemplate.git USERNAME.github.com
-    cd USERNAME.github.com
-    git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
+        git clone git@github.com:justingao/BlogTemplate.git USERNAME.github.com
+        cd USERNAME.github.com
+        git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
 
 3. Modify your personal settings in the `_config.yml` file, including: 
         #
@@ -45,9 +44,9 @@ If you want to fork this blog, please following these steps:
 5. OK, it time to write a new post for the blog site, all the posts were stored in `_post/` directory. The post filename should match the rule `YYYY-mm-dd-blog-title.md`, such as `2014-06-21-markdown-blog-example.md`.
 
 6. After all, you can public your blog now.
-    git add .
-    git commit -a -m "First commit."
-    git push origin master
+        git add .
+        git commit -a -m "First commit."
+        git push origin master
 You can access [https://USERNAME.github.io/](https://USERNAME.github.io/) to view your posts.
 
 
