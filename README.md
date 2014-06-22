@@ -56,18 +56,23 @@ You can access [https://USERNAME.github.io/](https://USERNAME.github.io/) to vie
 
 ## Blog Structure
 - \_config.yml
+
     Some basic settings, you should change the author and URL settings.
 
 - \_posts
+
     Your blog posts.
 
 - 404.md
+
     The ``Page Not Found'' page.
 
 - links/index.md
+
     Exchange site's link here.
 
 - google915045b4f6173450.html
+
     This file was generated from [Google Webmasters][google webmaster].
 
 
