@@ -7,7 +7,7 @@
         xmlns:atom="http://www.w3.org/2005/Atom" >
 
         <channel>
-            <title>{{ site.author }}</title>
+            <title>{{ site.my.name }}</title>
             <link href="{{ site.url }}/feed/" rel="self" />
             <link href="{{ site.url }}" />
             <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
@@ -17,7 +17,7 @@
                     <title>{{ post.title | xml_escape }}</title>
                     <link href="{{ site.url }}{{ post.url }}"/>
                     <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-                    <author>{{ site.author }}</author>
+                    <author>{{ site.my.name }}</author>
                     <guid>{{ site.url }}{{ post.id }}</guid>
                     <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
                 </item>

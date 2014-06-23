@@ -5,7 +5,7 @@ comments: yes
 ---
  
 ![]({{ site.url }}/media/image/rabbit64.png)
-My name is {{ site.author }}, I am a programmer.
+My name is {{ site.my.name }}, I am a programmer.
 
 - 邮箱 
 

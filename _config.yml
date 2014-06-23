@@ -8,28 +8,31 @@
 markdown: rdiscount
 # URL style. 
 permalink: /:year/:month/:title/
-# 
+# Support syntax highlight. 
 pygments: true
-# 
+# Posts displayed in each page.
 paginate: 16
-# Your name. 
-author: Justin GAO
 # Your blog's URL address.
 url: http://justingao.github.io
+
 # 
 # Personal Info; 
 # 
 my: 
+    # Your name. 
+    name: Justin GAO
     # Your email.
     email: justin@leigao.org
     # GitHub Account. 
     github: justingao
+
 #
 # Disqus settings. 
 #
 disqus:
     # Disqus short name; 
     shortname: justingao
+
 # 
 # Google Analytics; 
 #
