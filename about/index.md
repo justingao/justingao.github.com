@@ -4,7 +4,7 @@ layout: page
 comments: yes
 ---
  
-![]({{ site.url }}/media/image/rabbit64.png)
+![]({{ site.url }}/media/image/logo.png)
 My name is {{ site.my.name }}, I am a programmer.
 
 - 邮箱 
