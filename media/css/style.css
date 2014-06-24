@@ -12,12 +12,12 @@
 // @import url(http://fonts.googleapis.com/css?family=Galdeano);
 // @import url(http://fonts.googleapis.com/css?family=Electrolize);
 // @import url(http://fonts.googleapis.com/css?family=Cuprum);
-// @import url(http://justingao.github.io/media/static/css/Galdeano.css);
-// @import url(http://justingao.github.io/media/static/css/Electrolize.css);
-// @import url(http://justingao.github.io/media/static/css/Cuprum.css);
-<link rel='stylesheet' href='http://justingao.github.io/media/static/css/Galdeano.css' />
-<link rel='stylesheet' href='http://justingao.github.io/media/static/css/Electrolize.css' />
-<link rel='stylesheet' href='http://justingao.github.io/media/static/css/Cuprum.css' />
+@import url(https://raw.githubusercontent.com/justingao/justingao.github.com/master/media/static/css/Galdeano.css);
+@import url(https://raw.githubusercontent.com/justingao/justingao.github.com/master/media/static/css/Electrolize.css);
+@import url(https://raw.githubusercontent.com/justingao/justingao.github.com/master/media/static/css/Cuprum.css);
+// <link rel='stylesheet' href='http://justingao.github.io/media/static/css/Galdeano.css' />
+// <link rel='stylesheet' href='http://justingao.github.io/media/static/css/Electrolize.css' />
+// <link rel='stylesheet' href='http://justingao.github.io/media/static/css/Cuprum.css' />
 body{font-size:14px;word-spacing:1px;
 	margin-left:auto;
 margin-right:auto;
