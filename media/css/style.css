@@ -19,14 +19,12 @@
 // <link rel='stylesheet' href='http://justingao.github.io/media/static/css/Electrolize.css' />
 // <link rel='stylesheet' href='http://justingao.github.io/media/static/css/Cuprum.css' />
 
-/*
 @font-face {
     font-family: 'Cuprum';
     font-style: normal;
     font-weight: 400;
-    src: local('Cuprum'), local('Cuprum-Regular'), url(/media/static/fonts/cuprum.woff) format('woff');
+    src: local('Cuprum'), local('Cuprum-Regular'), url(http://leigao.org/static/fonts/sp1_LTSOMWWV0K5VTuZzvQ.woff) format('woff');
 }
-*/
 
 @font-face {
     font-family: 'Electrolize';
