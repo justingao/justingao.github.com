@@ -2,5 +2,5 @@
     font-family: 'Galdeano';
     font-style: normal;
     font-weight: 400;
-    src: local('Galdeano Regular'), local('Galdeano-Regular'), url(https://raw.githubusercontent.com/justingao/justingao.github.com/master/media/static/fonts/galdeano/v4/XWkZhyfrNgo9X-giTt_ZffesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+    src: local('Galdeano Regular'), local('Galdeano-Regular'), url(/media/static/fonts/galdeano/v4/XWkZhyfrNgo9X-giTt_ZffesZW2xOQ-xsNqO47m55DA.woff) format('woff');
 }

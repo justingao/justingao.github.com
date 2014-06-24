@@ -12,9 +12,9 @@
 // @import url(http://fonts.googleapis.com/css?family=Galdeano);
 // @import url(http://fonts.googleapis.com/css?family=Electrolize);
 // @import url(http://fonts.googleapis.com/css?family=Cuprum);
-@import url(https://raw.githubusercontent.com/justingao/justingao.github.com/master/media/static/css/Galdeano.css);
-@import url(https://raw.githubusercontent.com/justingao/justingao.github.com/master/media/static/css/Electrolize.css);
-@import url(https://raw.githubusercontent.com/justingao/justingao.github.com/master/media/static/css/Cuprum.css);
+@import url(/media/static/css/Galdeano.css);
+@import url(/media/static/css/Electrolize.css);
+@import url(/media/static/css/Cuprum.css);
 // <link rel='stylesheet' href='http://justingao.github.io/media/static/css/Galdeano.css' />
 // <link rel='stylesheet' href='http://justingao.github.io/media/static/css/Electrolize.css' />
 // <link rel='stylesheet' href='http://justingao.github.io/media/static/css/Cuprum.css' />

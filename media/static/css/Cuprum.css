@@ -2,5 +2,5 @@
     font-family: 'Cuprum';
     font-style: normal;
     font-weight: 400;
-    src: local('Cuprum'), local('Cuprum-Regular'), url(https://raw.githubusercontent.com/justingao/justingao.github.com/master/media/static/fonts/cuprum/v5/sp1_LTSOMWWV0K5VTuZzvQ.woff) format('woff');
+    src: local('Cuprum'), local('Cuprum-Regular'), url(/media/static/fonts/cuprum/v5/sp1_LTSOMWWV0K5VTuZzvQ.woff) format('woff');
 }
