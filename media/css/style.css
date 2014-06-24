@@ -33,6 +33,13 @@
     src: local('Electrolize'), local('Electrolize-Regular'), url(/media/static/fonts/electrolize.woff) format('woff');
 }
 
+@font-face {
+    font-family: 'Galdeano';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Galdeano Regular'), local('Galdeano-Regular'), url(/media/static/fonts/galdeano.woff) format('woff');
+}
+
 body{font-size:14px;word-spacing:1px;
 	margin-left:auto;
 margin-right:auto;
