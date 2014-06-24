@@ -1,6 +1,5 @@
 ---
 
-title: Android SDK Manager 无法更新
 layout: post
 categories: [Android]
 tags: [ADT, Android]
