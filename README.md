@@ -8,7 +8,7 @@ If you want to fork this blog, please following these steps:
 
 2. Type the following commands to initialize the blog:
 
-        git clone git@github.com:justingao/BlogTemplate.git USERNAME.github.com
+        git clone git@github.com:justingao/justingao.github.com.git USERNAME.github.com
         cd USERNAME.github.com
         git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
 
